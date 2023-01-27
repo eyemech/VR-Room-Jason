@@ -6837,7 +6837,7 @@ MonoBehaviour:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
-          m_FloatArgument: 0.3
+          m_FloatArgument: 0.05
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
@@ -7058,7 +7058,7 @@ MonoBehaviour:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
-          m_FloatArgument: 0.1
+          m_FloatArgument: 0.01
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
@@ -7153,7 +7153,7 @@ MonoBehaviour:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
-          m_FloatArgument: 0.6
+          m_FloatArgument: 0.25
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
@@ -7465,7 +7465,7 @@ AudioSource:
     m_Curve:
     - serializedVersion: 3
       time: 0
-      value: 0
+      value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
@@ -7669,7 +7669,7 @@ MonoBehaviour:
         m_CallState: 2
       - m_Target: {fileID: 7785142639058902457}
         m_TargetAssemblyTypeName: CreateTrail, Assembly-CSharp
-        m_MethodName: StartTrail
+        m_MethodName: EndTrail
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
